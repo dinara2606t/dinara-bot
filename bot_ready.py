@@ -11,7 +11,7 @@ from telegram.ext import (
 
 BOT_TOKEN   = "8886794256:AAE_8NWOOQGsfo5kKQ2gcZDntQapXxZPgYI"
 ADMIN_ID    = 168956595
-DINARA_TG   = "https://t.me/dinara_visual_bot"
+DINARA_TG   = DINARA_TG   = "https://t.me/photoadventurekazan"
 
 logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(message)s",
