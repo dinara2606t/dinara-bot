@@ -9,7 +9,7 @@ from telegram.ext import (
     MessageHandler, ConversationHandler, ContextTypes, filters
 )
 
-"BOT_TOKEN   = "8886794256:AAFEZANMN6HAPsY6LqDXaOKYTXDiKJZZxN8"
+BOT_TOKEN   = "8886794256:AAFEZANMN6HAPsY6LqDXaOKYTXDiKJZZxN8"
 ADMIN_ID    = 168956595
 DINARA_TG   = "https://t.me/photoadventurekazan"
 logging.basicConfig(
