@@ -9,10 +9,9 @@ from telegram.ext import (
     MessageHandler, ConversationHandler, ContextTypes, filters
 )
 
-BOT_TOKEN   = "8886794256:AAE_8NWOOQGsfo5kKQ2gcZDntQapXxZPgYI"
+"BOT_TOKEN   = "8886794256:AAFEZANMN6HAPsY6LqDXaOKYTXDiKJZZxN8"
 ADMIN_ID    = 168956595
-DINARA_TG   = DINARA_TG   = "https://t.me/photoadventurekazan"
-
+DINARA_TG   = "https://t.me/photoadventurekazan"
 logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(message)s",
     level=logging.INFO
